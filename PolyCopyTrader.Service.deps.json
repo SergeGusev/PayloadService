@@ -16,6 +16,7 @@
           "Microsoft.Extensions.Logging": "10.0.7",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "10.0.7",
           "Microsoft.Extensions.Options.DataAnnotations": "10.0.7",
+          "Npgsql": "10.0.2",
           "PolyCopyTrader.Domain": "1.0.0",
           "PolyCopyTrader.Polymarket": "1.0.0",
           "PolyCopyTrader.Storage": "1.0.0",
